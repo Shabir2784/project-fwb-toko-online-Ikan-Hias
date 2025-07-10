@@ -1,4 +1,4 @@
-<h3 align="center">Toko Online</h3>
+<h3 align="center">Toko Online Ikan Hias</h3>
 <br><br><br>
 
 <p align="center">
@@ -8,8 +8,8 @@
 <br><br><br>
 
 <p align="center"><strong>SHABIR			D0223306 <br/><br/>
-/>
-Framework Web Based<br/></p>
+
+Framework Web Based<br/>
 2025<br/></p>
 ---
 
