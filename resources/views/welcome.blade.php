@@ -27,7 +27,7 @@
   </div>
 </nav>
 
-<!-- ✅ Flash Message -->
+<!--Flash Message -->
 @if(session('success'))
   <div class="alert alert-success text-center mb-0">{{ session('success') }}</div>
 @endif
@@ -114,7 +114,7 @@
 <!-- Footer -->
 <footer class="bg-success text-white text-center py-3 mt-5">
   <div class="container">
-    <small>&copy; {{ date('Y') }} Toko Online Ikan Hias</small>
+    <small>&copy; {{ date('Y') }} Toko Online Ikan Hias mantap</small>
   </div>
 </footer>
 
