@@ -33,7 +33,7 @@
         </div>
 
         <div class="mb-3">
-            <label>No WhatsApp</label>
+            <label>Nomor WhatsApp</label>
             <input type="text" name="no_wa" value="{{ old('no_wa', $pengguna->no_wa) }}" class="form-control">
         </div>
 
